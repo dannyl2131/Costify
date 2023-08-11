@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Rent",
+        "amount": 1500
+    },
+    {
+        "name": "Utilities",
+        "amount": 200
+    },
+    {
+        "name": "Groceries",
+        "amount": 300
+
+    },
+    {
+        "name": "Gas",
+        "amount": 100
+    },
+    {
+        "name": "Car Payment",
+        "amount": 300
+    },
+    {
+        "name": "Insurance",
+        "amount": 100
+    },
+    {
+        "name": "Phone",
+        "amount": 75
+    },
+    {
+        "name": "Internet",
+        "amount": 80
+    },
+    {
+        "name": "Cable",
+        "amount": 100
+    },
+    {
+        "name": "Credit Card",
+        "amount": 500
+    },
+    {
+        "name": "Student Loan",
+        "amount": 100
+    },
+    {
+        "name": "Miscellaneous",
+        "amount": 100
+    }
+
+
+    
+]
